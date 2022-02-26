@@ -12,7 +12,7 @@ Easy!
   latest
   ```
 1. In no time the "Rails Latest Data Migration: Open latest Rails data migration" should be highlighted, like so:
-![Rails Latest Data Migration Screenshot](https://github.com/alexpls/Rails-Latest-Migration/raw/gh-pages/screenshots/screenshot_1.png)
+![Rails Latest Data Migration Screenshot](https://raw.githubusercontent.com/nfilzi/Rails-Latest-Data-Migration/screenshots/screenshots/readme-illustration.jpeg)
 1. Hit enter, and lo and behold; your latest data migration!
 
 ## License
