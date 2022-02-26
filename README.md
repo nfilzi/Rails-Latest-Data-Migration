@@ -1,4 +1,4 @@
-# Rails Latest Migration
+# Rails Latest Data Migration
 
 Opens the latest migration created in a Ruby on Rails app. Works with Sublime Text 3 and Sublime Text 2.
 
@@ -11,16 +11,9 @@ Easy!
   ```
   latest
   ```
-1. In no time the "Rails Latest Migration: Open latest Rails migration" should be highlighted, like so:
-![Rails Latest Migration Screenshot](https://github.com/alexpls/Rails-Latest-Migration/raw/gh-pages/screenshots/screenshot_1.png)
-1. Hit enter, and lo and behold; your latest migration!
-
-## Atom.io
-If you're using atom.io, there's a version of this plugin for you too! Check out [https://atom.io/packages/rails-latest-migration](https://atom.io/packages/rails-latest-migration).
-
-## Visual Studio Code
-
-Using VSCode? [tmikoss](https://github.com/tmikoss) has got you covered, check out the VSCode version of this plugin here: [https://github.com/tmikoss/rails-latest-migration](https://github.com/tmikoss/rails-latest-migration).
+1. In no time the "Rails Latest Data Migration: Open latest Rails data migration" should be highlighted, like so:
+![Rails Latest Data Migration Screenshot](https://github.com/alexpls/Rails-Latest-Migration/raw/gh-pages/screenshots/screenshot_1.png)
+1. Hit enter, and lo and behold; your latest data migration!
 
 ## License
 The MIT License (MIT) - for more info see [LICENSE.md](https://github.com/alexpls/Rails-Latest-Migration/blob/master/LICENSE.md).

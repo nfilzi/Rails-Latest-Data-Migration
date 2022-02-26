@@ -2,7 +2,7 @@ import sublime, sublime_plugin
 import os
 import re
 
-class RailsLatestMigrationCommand(sublime_plugin.WindowCommand):
+class RailsLatestDataMigrationCommand(sublime_plugin.WindowCommand):
 	def run(self):
 		try:
 			# Try to get a path from the currently open file.
@@ -23,7 +23,7 @@ class RailsLatestMigrationCommand(sublime_plugin.WindowCommand):
 			raise NothingOpen("Please open a file or folder in order to search for the latest migration")
 
 		if root:
-			migrations_dir = os.path.join(root, 'db', 'migrate')
+			migrations_dir = os.path.join(root, 'db', 'data_migration')
 			migrations = os.listdir(migrations_dir)
 
 			pattern = re.compile('^\d+_\w+.rb$')
